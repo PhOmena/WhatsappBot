@@ -7,8 +7,8 @@
 
 ## :bookmark_tabs: Resume of application
 
-I've been made this project because, I's studying a little about robots and I decided to create one. 
-This application works automatically, It opens your whatsapp, and send a message (what you want) for someone you wish. Is very, very nice. I used the <a href="https://chromedriver.chromium.org/downloads">chromedriver</a>
+I've been made this project because I was studying a little about robots and I decided to create one. 
+This application works automatically, It opens your whatsapp, and send a message (what message you want) for someone you wish. Is very, very nice. I used the <a href="https://chromedriver.chromium.org/downloads">chromedriver</a>
 
 ## :mag_right: Getting Started
 
